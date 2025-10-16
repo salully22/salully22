@@ -1,21 +1,23 @@
+
 <div align="center">
 
-### <div style="background-color:#ffffff; color:#000; display:inline-block; padding:10px 25px; border-radius:15px; font-size:28px; font-weight:bold; box-shadow:0px 0px 15px rgba(255,255,255,0.3);">
+### <div style="background-color:#ffffff; color:#000; display:inline-block; padding:10px 25px; border-radius:15px; font-size:28px; font-weight:bold; box-shadow:0px 0px 20px rgba(255,255,255,0.3);">
 🚀 Future Tech Leader
 </div>
 
 <br>
 
-![Coding Animation](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b3286c80e5e9ad9b8e.gif)
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" alt="Coding animation"/>
+
+<br><br>
+
+### <div style="color:#8A2BE2; font-size:22px; font-weight:bold; font-family:'Fira Code', monospace;">
+Building my AI empire one line of code at a time 🤖
+</div>
 
 ---
 
-### ✨ Animated Intro  
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Turning+ideas+into+intelligent+systems.;Building+the+future+with+AI.;Dream+%7C+Build+%7C+Inspire.)
-
----
-
-<div style="border: 3px solid #8A2BE2; border-radius: 15px; padding: 15px; background-color: #0d1117; color: #e6e6fa; max-width: 600px; margin: auto;">
+<div style="border: 2px solid #8A2BE2; border-radius: 15px; padding: 15px; background-color: #0d1117; color: #e6e6fa; max-width: 600px; margin: auto; font-size:16px; line-height:1.6;">
   
 > 💡 *Currently mastering **Python, Machine Learning & AI***  
 > 🎯 *Goal: Build my own tech company and lead innovation.*  
