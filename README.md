@@ -1,14 +1,14 @@
-
-<div align="center" style="border: 3px solid #8e44ad; border-radius: 15px; padding: 20px; background-color: #0a0a0a;">
+<div align="center" style="background-color:#0d0d0d; border: 3px solid #8e44ad; border-radius: 20px; padding: 25px;">
 
 <h1 style="color:#9b59b6;">🤖 I'm <span style="color:#1abc9c;">Salsabeel</span></h1>
 <h3 style="color:#ecf0f1;">🚀 AI Visionary | Python Developer | Future Tech Leader</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="320" alt="Animated Robot"/>
+  <!-- Animated Robot GIF -->
+  <img src="https://media.giphy.com/media/Ib9sK2ZRl3NfyaBJoS/giphy.gif" width="330" alt="Animated Robot"/>
 </p>
 
-<p style="color:#bdc3c7; font-size:16px;">
+<p style="color:#dcdde1; font-size:16px;">
   💡 “Turning ideas into intelligent systems.” <br>
   🌱 Currently mastering <b style="color:#1abc9c;">Python, Machine Learning & AI</b><br>
   🎯 My goal: <b style="color:#f1c40f;">Build my own tech company and lead innovation</b>.<br>
@@ -37,3 +37,4 @@
 <p style="color:#9b59b6; font-size:14px;">🌌 “Dream big, work smart, and let your code speak for you.” ✨</p>
 
 </div>
+
