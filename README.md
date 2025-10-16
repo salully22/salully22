@@ -7,13 +7,13 @@
 
 <br>
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" alt="Coding animation"/>
+<!-- animated coder -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b3286c80e5e9ad9b8e.gif" width="400" alt="Coding animation"/>
 
 <br><br>
 
-### <div style="color:#8A2BE2; font-size:22px; font-weight:bold; font-family:'Fira Code', monospace;">
-Building my AI empire one line of code at a time 🤖
-</div>
+<!-- typing animation -->
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+my+AI+empire+one+line+of+code+at+a+time+🤖;Dream+%7C+Code+%7C+Create+%7C+Inspire)
 
 ---
 
@@ -45,3 +45,4 @@ Building my AI empire one line of code at a time 🤖
 🌙 *“Dream big, work smart, and let your code speak for you.”*
 
 </div>
+
