@@ -1,13 +1,17 @@
 <div align="center">
 
-## 🌌 **I'm Salsabeel**
+### <div style="background-color:#ffffff; color:#000; display:inline-block; padding:10px 25px; border-radius:15px; font-size:28px; font-weight:bold; box-shadow:0px 0px 15px rgba(255,255,255,0.3);">
+🚀 Future Tech Leader
+</div>
 
-🪄 *AI Visionary | Python Developer | Future Tech Leader*
+<br>
+
+![Coding Animation](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b3286c80e5e9ad9b8e.gif)
 
 ---
 
 ### ✨ Animated Intro  
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+universe!;Turning+ideas+into+intelligent+systems.;Dream+%7C+Build+%7C+Inspire.)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Turning+ideas+into+intelligent+systems.;Building+the+future+with+AI.;Dream+%7C+Build+%7C+Inspire.)
 
 ---
 
